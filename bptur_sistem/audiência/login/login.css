@@ -1,0 +1,28 @@
+img {
+    /*font-size: 800rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;*/
+    position: relative;
+    height: 35%;
+    width: 35%;
+    left: 10%;
+}
+
+div#acesso {
+    position: fixed;
+    top: 1%;
+    right: 50px;
+    margin: 5px;
+    margin-top: 10%;
+    height: 50%;
+    width: 30%;
+}
+
+
+/* @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+    }
+}*/
